@@ -73,7 +73,9 @@ public class Fourthproject {
                 {
                     if (i == 5)
                         continue;
-                    System.out.println("Hello");
+                    System.out.println("u");
+                        
+                    System.out.println(i);
                 }
     }
     

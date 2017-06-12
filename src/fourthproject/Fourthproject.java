@@ -18,7 +18,7 @@ public class Fourthproject {
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        int firstValue = 0;
+       /* int firstValue = 0;
         System.out.println("Task 1");
         Scanner in = new Scanner(System.in); 
         System.out.println("Please enter weekday number. Week starts at Sunday");
@@ -67,7 +67,16 @@ public class Fourthproject {
                 System.out.println("Now you have " + firstValue / 29.19 + " euros");
                 break;
             
-        }
+        }*/
+   
+                for (int i = 0; i < 10; i++)
+                {
+                    if (i == 5)
+                        continue;
+                    System.out.println("Hello");
+                }
     }
+    
+    
     
 }
